@@ -1,2 +1,2 @@
 # everyday-code
-exercise
+练习Java
